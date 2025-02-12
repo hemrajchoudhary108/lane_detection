@@ -11,7 +11,7 @@ Hey there! This project is all about detecting lanes in a video using OpenCV. It
 - Uses edge detection and Hough transforms
 - Simple and lightweight, powered by OpenCV
 
-## How It Works (Lane Detection 101)
+## How It Works (Lane Detection)
 
 This is how we make the magic happen:
 
