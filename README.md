@@ -1,6 +1,7 @@
 # Project Name
 
-![Demo Video](https://www.youtube.com/watch?v=7wt3U-lgRZw&ab_channel=Hemraj)
+https://github.com/user-attachments/assets/4b80647f-48ab-4c24-b751-017c1363ba1c
+
 
 ## What's This Project About?
 Hey there! This project is all about detecting lanes in a video using OpenCV. It's a fun way to see how computer vision can help in real-world scenarios like self-driving cars.
