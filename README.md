@@ -1,6 +1,6 @@
 # Project Name
 
-![Demo Video](combined.mp4)
+![Demo Video](https://www.youtube.com/watch?v=7wt3U-lgRZw&ab_channel=Hemraj)
 
 ## What's This Project About?
 Hey there! This project is all about detecting lanes in a video using OpenCV. It's a fun way to see how computer vision can help in real-world scenarios like self-driving cars.
@@ -30,9 +30,6 @@ This is how we make the magic happen:
 
 **Step 8:** Highlight the lanes visually by drawing the final lane boundaries.
 
-![Input Video](lane1-straight.mp4)
-
-![Output video](output_lane.mp4)
 ## License
 Feel free to use and modify this project! It's under the MIT License.
 
